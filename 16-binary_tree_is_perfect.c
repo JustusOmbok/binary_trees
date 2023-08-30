@@ -1,6 +1,6 @@
 #include "binary_trees.h"
 /**
- * its__depth - Measure depth of a node
+ * its_depth - Measure depth of a node
  * @tree: Pointer to the node to be measured
  *
  * Return: Depth of the node or 0
